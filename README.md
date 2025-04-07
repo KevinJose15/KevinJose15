@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Kevin 👨‍💻
 
-![Developer at Work](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ✨ **Desarrollador apasionado** por la tecnología, el aprendizaje constante y la creación de soluciones innovadoras que generen impacto.
 
@@ -36,6 +36,7 @@
 </div>
 
 ---
+
 
 ## 📫 **Conecta conmigo**
 
