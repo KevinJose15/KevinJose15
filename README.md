@@ -25,12 +25,14 @@
 
 ## 📈 Estadísticas
 
+![Kevin Mendoza GitHub stats](https://github-readme-stats.vercel.app/api?username=Henryjmzx9&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henryjmzx9&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Conecta conmigo
 
 - 🌐 [Tu portafolio](https://tusitio.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
-- 📧 kevinmendozatobar@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/kevin-mendoza-28b1b5291/)
+- 📧 [Gmail](mailto:kevinmendozatobar@gmail.com)
