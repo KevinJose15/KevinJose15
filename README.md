@@ -1,5 +1,7 @@
 # 👋 ¡Hola! Soy Kevin 👨‍💻
 
+![Developer at Work](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 ✨ **Desarrollador apasionado** por la tecnología, el aprendizaje constante y la creación de soluciones innovadoras que generen impacto.
 
 ---
