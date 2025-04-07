@@ -41,4 +41,4 @@
 
 - 🌐 [**Portafolio**](https://dev.azure.com/KJMT20250403/)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/kevin-mendoza-28b1b5291/)
-- 📧 [**Correo Electrónico**](mailto:kevinmentobar05@hotmail.com)
+- 📧 [kevinmentobar05@hotmail.com](https://outlook.live.com/mail/0/)
