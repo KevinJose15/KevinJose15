@@ -35,4 +35,4 @@
 
 - 🌐 [Tu portafolio](https://dev.azure.com/KJMT20250403/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevin-mendoza-28b1b5291/)
-- 📧 kevinmendozatobar@gmail.com
+- 📧 kevinmentobar05@hotmail.com
