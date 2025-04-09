@@ -30,9 +30,9 @@
 ## 📈 **Estadísticas**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henryjmzx9&show_icons=true&theme=tokyonight" alt="Kevin Mendoza GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinjose15&show_icons=true&theme=tokyonight" alt="Kevin Mendoza GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henryjmzx9&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjose15&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
